@@ -4,7 +4,7 @@ Calculate percentages or get percentages with this!
 
 ## Demo
 
-**Live Demo:** [Github Pages]()
+**Live Demo:** [Github Pages](https://dev-caspertheghost.github.io/percentage-calculator-react/)
 
 ## What I learned
 
