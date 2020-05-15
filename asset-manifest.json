@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f5811c4.chunk.css",
-    "main.js": "/static/js/main.e0d2f77b.chunk.js",
-    "main.js.map": "/static/js/main.e0d2f77b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.54864403.js",
-    "runtime-main.js.map": "/static/js/runtime-main.54864403.js.map",
-    "static/js/2.ab0e3665.chunk.js": "/static/js/2.ab0e3665.chunk.js",
-    "static/js/2.ab0e3665.chunk.js.map": "/static/js/2.ab0e3665.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.419096e21810c531a680bb56e543d1cd.js": "/precache-manifest.419096e21810c531a680bb56e543d1cd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4f5811c4.chunk.css.map": "/static/css/main.4f5811c4.chunk.css.map",
-    "static/js/2.ab0e3665.chunk.js.LICENSE.txt": "/static/js/2.ab0e3665.chunk.js.LICENSE.txt"
+    "main.css": "/percentage-calculator-react/static/css/main.b33e091c.chunk.css",
+    "main.js": "/percentage-calculator-react/static/js/main.62b1941e.chunk.js",
+    "main.js.map": "/percentage-calculator-react/static/js/main.62b1941e.chunk.js.map",
+    "runtime-main.js": "/percentage-calculator-react/static/js/runtime-main.f2d6ef53.js",
+    "runtime-main.js.map": "/percentage-calculator-react/static/js/runtime-main.f2d6ef53.js.map",
+    "static/js/2.ab0e3665.chunk.js": "/percentage-calculator-react/static/js/2.ab0e3665.chunk.js",
+    "static/js/2.ab0e3665.chunk.js.map": "/percentage-calculator-react/static/js/2.ab0e3665.chunk.js.map",
+    "index.html": "/percentage-calculator-react/index.html",
+    "precache-manifest.947001b9aa0146fe190f9a7ad4dedaf4.js": "/percentage-calculator-react/precache-manifest.947001b9aa0146fe190f9a7ad4dedaf4.js",
+    "service-worker.js": "/percentage-calculator-react/service-worker.js",
+    "static/css/main.b33e091c.chunk.css.map": "/percentage-calculator-react/static/css/main.b33e091c.chunk.css.map",
+    "static/js/2.ab0e3665.chunk.js.LICENSE.txt": "/percentage-calculator-react/static/js/2.ab0e3665.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.54864403.js",
+    "static/js/runtime-main.f2d6ef53.js",
     "static/js/2.ab0e3665.chunk.js",
-    "static/css/main.4f5811c4.chunk.css",
-    "static/js/main.e0d2f77b.chunk.js"
+    "static/css/main.b33e091c.chunk.css",
+    "static/js/main.62b1941e.chunk.js"
   ]
 }
