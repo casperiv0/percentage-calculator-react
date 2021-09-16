@@ -1,20 +1,13 @@
-import React, { Component } from 'react';
-import {
-  Input,
-  InputLabel,
-  FormControl,
-  FormHelperText,
-  Button,
-  Typography
-} from '@material-ui/core';
+import React, { Component } from "react";
+import { Input, InputLabel, FormControl, FormHelperText, Button, Typography } from "@mui/material";
 
 export default class CalculatePercentage extends Component {
   constructor() {
     super();
 
     this.state = {
-      percentage: '',
-      amount: '',
+      percentage: "",
+      amount: "",
     };
   }
 
@@ -37,26 +30,27 @@ export default class CalculatePercentage extends Component {
     });
   };
 
-
   render() {
     const { percentage, amount } = this.state;
     return (
-      <div className='container'>
-        <Typography  variant="h4">Calculate Amount</Typography>
+      <div className="container">
+        <Typography variant="h4">Calculate Amount</Typography>
         <form onSubmit={this.onSubmit}>
           <FormControl fullWidth>
             <InputLabel>Enter Percentage (%)</InputLabel>
             <Input type="number" onChange={this.handlePercentage} value={percentage} />
             <FormHelperText>E.G. 10%</FormHelperText>
           </FormControl>
-          <FormControl fullWidth style={{ marginTop: '20px' }}>
+          <FormControl fullWidth style={{ marginTop: "20px" }}>
             <InputLabel>Enter Amount</InputLabel>
             <Input type="number" onChange={this.handleAmount} value={amount} />
             <FormHelperText>E.G. 1000</FormHelperText>
           </FormControl>
-        <FormControl fullWidth  style={{marginTop: "20px"}}>
-            <Button variant="contained" color="inherit" type="submit">Calculate!</Button>
-        </FormControl>
+          <FormControl fullWidth style={{ marginTop: "20px" }}>
+            <Button variant="contained" color="inherit" type="submit">
+              Calculate!
+            </Button>
+          </FormControl>
         </form>
       </div>
     );
