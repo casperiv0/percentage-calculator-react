@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/percentage-calculator-react/static/css/main.50783b36.chunk.css",
-    "main.js": "/percentage-calculator-react/static/js/main.83e106bd.chunk.js",
-    "main.js.map": "/percentage-calculator-react/static/js/main.83e106bd.chunk.js.map",
+    "main.js": "/percentage-calculator-react/static/js/main.8044cd3a.chunk.js",
+    "main.js.map": "/percentage-calculator-react/static/js/main.8044cd3a.chunk.js.map",
     "runtime-main.js": "/percentage-calculator-react/static/js/runtime-main.f040cca6.js",
     "runtime-main.js.map": "/percentage-calculator-react/static/js/runtime-main.f040cca6.js.map",
-    "static/js/2.34a5fac4.chunk.js": "/percentage-calculator-react/static/js/2.34a5fac4.chunk.js",
-    "static/js/2.34a5fac4.chunk.js.map": "/percentage-calculator-react/static/js/2.34a5fac4.chunk.js.map",
+    "static/js/2.24ee5630.chunk.js": "/percentage-calculator-react/static/js/2.24ee5630.chunk.js",
+    "static/js/2.24ee5630.chunk.js.map": "/percentage-calculator-react/static/js/2.24ee5630.chunk.js.map",
     "index.html": "/percentage-calculator-react/index.html",
     "static/css/main.50783b36.chunk.css.map": "/percentage-calculator-react/static/css/main.50783b36.chunk.css.map",
-    "static/js/2.34a5fac4.chunk.js.LICENSE.txt": "/percentage-calculator-react/static/js/2.34a5fac4.chunk.js.LICENSE.txt"
+    "static/js/2.24ee5630.chunk.js.LICENSE.txt": "/percentage-calculator-react/static/js/2.24ee5630.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f040cca6.js",
-    "static/js/2.34a5fac4.chunk.js",
+    "static/js/2.24ee5630.chunk.js",
     "static/css/main.50783b36.chunk.css",
-    "static/js/main.83e106bd.chunk.js"
+    "static/js/main.8044cd3a.chunk.js"
   ]
 }
