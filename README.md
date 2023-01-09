@@ -4,7 +4,7 @@ Calculate percentages or get percentages with this!
 
 ## Demo
 
-**Live Demo:** [Vercel Deployment](https://dev-caspertheghost.github.io/percentage-calculator-react/)
+**Live Demo:** [Vercel Deployment](https://percentage-calculator-react.vercel.app/)
 
 ## What I learned
 
